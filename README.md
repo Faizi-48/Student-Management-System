@@ -6,6 +6,7 @@ Frontend Done Using SFML
 
 Features of this System are:
 - Add Students
+- Show Teacher's Timetable
 - Remove Students
 - Manage Attendance
 - Add Course
