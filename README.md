@@ -5,6 +5,8 @@ Student Management System created using Concepts of OOP (Object Oriented Program
 Frontend Done Using SFML
 
 Features of this System are:
+- Add Students
+- Remove Students
 - Manage Attendance
 - Add Course
 - Drop Course
