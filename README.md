@@ -1,6 +1,7 @@
 # Student-Management-System
 
-Student Management System created using Concepts of OOP (Object Oriented Programming) in C++/
+Student Management System created using Concepts of OOP (Object Oriented Programming) in C++
+Frontend Done Using SFML
 
 Features of this System are:
 - Manage Attendance
